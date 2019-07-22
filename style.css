@@ -4,6 +4,21 @@ html{
 	height: 100%
 }
 
+.divine {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+  	color: #000;
+	text-align: center;
+}
+
+.endfoot{
+	width: 100%;
+	background-color: #fff;
+	max-height: 30%;
+};
+
+
+
 hr {
 	max-width: 45px;
 	border-width: 3px;
@@ -51,4 +66,3 @@ h1 {
 	border-width: 4px;
 	cursor: pointer;
 }
-
