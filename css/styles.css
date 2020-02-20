@@ -34,23 +34,30 @@ p {
   padding-right: 40px; */
 }
 
+.middle-container {
+  background-color: #f1f3f4;
+}
+
 .bottom-container {
   padding-top: 20px;
+  background-color: #f1f3f4;
 }
 
 .middle-container p {
   margin: 0 auto 20px auto;
   padding-left: 10px;
   padding-right: 10px;
+
 }
 
 
 
 
 .bottom-container p {
-  margin: 0 auto 20px auto;
+  margin: 0 auto 0 auto;
   padding-left: 10px;
   padding-right: 10px;
+  padding-bottom: 20px;
 }
 
 p.copy-right  {
