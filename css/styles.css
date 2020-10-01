@@ -1,7 +1,10 @@
+
+
 body {
 
   margin: 0;
   text-align: center;
+
 }
 
 p {
@@ -34,13 +37,24 @@ p {
   padding-right: 40px; */
 }
 
-.middle-container {
-  background-color: #f1f3f4;
+.skills {
+  background-color: #283747;
+  padding-top: 25px;
+
+  padding-bottom: 25px;
+}
+
+.profile {
+  background-color: #28B463;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  clear: both;
+  
 }
 
 .bottom-container {
   padding-top: 20px;
-  background-color: #f1f3f4;
+  background-color: #4A235A;
 }
 
 .middle-container p {
@@ -62,7 +76,7 @@ p {
 
 p.copy-right  {
   margin-top: 20px;
-  color: red;
+  
 }
 
 .container-top {
@@ -73,7 +87,7 @@ p.copy-right  {
 }
 
 .profile-pic {
-    margin-top: 20px;
+    /* margin-top: 20px; */
     width: 70%;
     height: 50%;
     max-width: 20rem;
@@ -84,7 +98,7 @@ p.copy-right  {
 }
 
 .android-pic {
-  margin-top: 20px;
+  /* margin-top: 20px; */
   width: 70%;
   height: 50%;
   max-width: 20rem;
@@ -95,7 +109,7 @@ p.copy-right  {
 }
 
 .java-pic {
-  margin-top: 20px;
+  /* margin-top: 20px; */
   width: 70%;
   height: 50%;
   max-width: 20rem;
@@ -105,9 +119,9 @@ p.copy-right  {
   border-radius: 100%;
 }
 
-.container-margin-auto {
-  margin: 0 auto;
-}
+/* .container-margin-auto {
+   margin: 0 auto; 
+} */
 
 .left-cloud-position {
   position: absolute;
@@ -140,7 +154,7 @@ p.copy-right  {
 }
 
 .marg-top {
-  margin-top: 14em;
+  margin-top: 7em;
 }
 
 .btn {
@@ -153,4 +167,22 @@ p.copy-right  {
   margin: 0 auto 0 auto;
   width: 70px;
   display: block;
+}
+
+.color-text-portion {
+  color: white;
+}
+
+.contact-me {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: #2874A6;
+}
+
+.footer-link {
+  color: azure;
+}
+
+.coco {
+  color: #7DCEA0;
 }
