@@ -90,7 +90,7 @@ p.copy-right  {
     /* margin-top: 20px; */
     width: 70%;
     height: 70%;
-    object-fit: cover;
+    object-fit: fill;
     max-width: 20rem;
     max-height: 20rem;
     min-width: 2rem;
