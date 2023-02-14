@@ -89,7 +89,8 @@ p.copy-right  {
 .profile-pic {
     /* margin-top: 20px; */
     width: 70%;
-    height: 50%;
+    height: 70%;
+    object-fit: cover;
     max-width: 20rem;
     max-height: 20rem;
     min-width: 2rem;
